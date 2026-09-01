@@ -1,2 +1,2 @@
 plugin: community.docker.docker_containers
-docker_host: tcp://host.docker.internal:2375
+docker_host: unix:///var/run/docker.sock
